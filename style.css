@@ -1,0 +1,7 @@
+body {
+    background-color: whitesmoke;
+};
+img.rounded {
+    height: 50%;
+    width: 50%;
+}
